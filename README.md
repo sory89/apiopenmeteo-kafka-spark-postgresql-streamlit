@@ -18,5 +18,10 @@ Open-Meteo API → Kafka → Spark → PostgreSQL → Streamlit / Jupyter
 
 <img width="956" height="512" alt="image" src="https://github.com/user-attachments/assets/88165894-77c3-4174-b755-edad72555559" />
 
+## 📊 Dashboard Overview  
+Real-time visualization of weather metrics across multiple cities.
+
+## 🚨 Weather Alerts Panel  
+Detection of extreme weather conditions (rain, snow, heat).
 
 <img width="939" height="473" alt="image" src="https://github.com/user-attachments/assets/d1d419df-66b8-4090-ade7-5e11d1f3c2ae" />
