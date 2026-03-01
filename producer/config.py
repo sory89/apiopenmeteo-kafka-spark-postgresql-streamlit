@@ -18,6 +18,7 @@ CITIES = [
     {"name": "Toronto",      "latitude": 43.6532,  "longitude": -79.3832, "country": "CA"},
     {"name": "Montreal",     "latitude": 45.5017,  "longitude": -73.5673, "country": "CA"},
     {"name": "Conakry",      "latitude":  9.6412,  "longitude": -13.5784, "country": "GN"},
+    {"name": "Niamey",       "latitude": 13.5116,  "longitude": 2.1254,   "country": "NE"},
     {"name": "Johannesburg", "latitude": -26.2041, "longitude":  28.0473, "country": "ZA"},
     {"name": "Rabat",        "latitude": 34.0209,  "longitude":  -6.8416, "country": "MA"},
     {"name": "Riyadh",       "latitude": 24.7136,  "longitude":  46.6753, "country": "SA"},

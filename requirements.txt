@@ -1,3 +1,4 @@
+# Pipeline météo
 kafka-python-ng==2.2.3
 requests==2.31.0
 pyspark==3.5.1
@@ -7,6 +8,24 @@ plotly==5.22.0
 pandas==2.2.2
 psycopg2-binary==2.9.9
 sqlalchemy==2.0.36
+
+# Jupyter & visualisation
 jupyter==1.1.1
 matplotlib==3.9.2
 seaborn==0.13.2
+
+# LangChain + Gemini (versions compatibles 0.2.x)
+python-dotenv==1.0.0
+tiktoken==0.4.0
+protobuf>=3.20,<6
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-experimental==0.0.65
+langchain-google-genai==1.0.10
+langchain-huggingface
+
+# Vector store & embeddings
+numpy==1.26.4
+sentence-transformers==2.7.0
+faiss-cpu==1.7.4
+chromadb

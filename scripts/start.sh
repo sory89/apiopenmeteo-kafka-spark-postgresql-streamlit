@@ -69,6 +69,7 @@ echo "→ http://localhost:8501"
 echo "Press Ctrl+C to stop."
 echo ""
 
+
 cleanup() {
   echo "Shutting down..."
   kill $PRODUCER_PID 2>/dev/null || true
@@ -78,4 +79,6 @@ cleanup() {
 }
 trap cleanup EXIT INT TERM
 
-streamlit run dashboard/app.py --server.headless true
+jupyter notebook &
+
+streamlit run dashboard/app.py --server.headless true 
