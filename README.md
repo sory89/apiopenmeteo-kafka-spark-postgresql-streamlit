@@ -25,3 +25,10 @@ Real-time visualization of weather metrics across multiple cities.
 Detection of extreme weather conditions (rain, snow, heat).
 
 <img width="939" height="473" alt="image" src="https://github.com/user-attachments/assets/d1d419df-66b8-4090-ade7-5e11d1f3c2ae" />
+
+## 🧠 GenAI Analytics — LangChain Intelligence Layer  
+Advanced AI-driven insights leveraging LangChain for natural language querying, automated SQL generation, and contextual data understanding.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ef87487-87d5-4603-ae37-b6f8a997b29b" />
+
+<img width="922" height="413" alt="image" src="https://github.com/user-attachments/assets/19c7b1de-7b32-4cc0-8866-147524f51cd7" />
