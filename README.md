@@ -9,6 +9,19 @@ End-to-end AI-generated queries delivering contextual and interpretable data ins
 🏗️ Architecture
 Open-Meteo API → Kafka → Spark → PostgreSQL → Streamlit / Jupyter
 
+    🌐 Open-Meteo API
+            │
+            ▼
+    📨 Apache Kafka
+            │
+            ▼
+    ⚡ Apache Spark
+            │
+            ▼
+    🗄️ PostgreSQL
+       │        │
+       ▼        ▼
+
 📡 Data Source: Open-Meteo API
 
 📨 Streaming: Kafka
@@ -32,7 +45,8 @@ Detection of extreme weather conditions (rain, snow, heat).
 ## 🧠 GenAI Analytics — LangChain Intelligence Layer  
 Advanced AI-driven insights leveraging LangChain for natural language querying, automated SQL generation, and contextual data understanding.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ef87487-87d5-4603-ae37-b6f8a997b29b" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/603c6849-3b60-4843-b030-d5e657e20424" />
+
 
 ## 🧠 GenAI — Intelligence Results  
 ## 📊 GenAI Results — Intelligent Data Insights  
