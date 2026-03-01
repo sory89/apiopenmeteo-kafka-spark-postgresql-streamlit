@@ -1,3 +1,6 @@
+## 🧠 GenAI Output — SQL Intelligence Results  
+End-to-end AI-generated queries delivering contextual and interpretable data insights.
+
 # apiopenmeteo-kafka-spark-postgresql-streamlit
 
 🌍 Real-Time Weather Intelligence
@@ -31,7 +34,7 @@ Advanced AI-driven insights leveraging LangChain for natural language querying, 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ef87487-87d5-4603-ae37-b6f8a997b29b" />
 
-## 🧠 GenAI Output — SQL Intelligence Results  
-End-to-end AI-generated queries delivering contextual and interpretable data insights.
+## 🧠 GenAI — Intelligence Results  
+## 📊 GenAI Results — Intelligent Data Insights  
 
 <img width="922" height="413" alt="image" src="https://github.com/user-attachments/assets/19c7b1de-7b32-4cc0-8866-147524f51cd7" />
