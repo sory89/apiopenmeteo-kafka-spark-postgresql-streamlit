@@ -9,7 +9,7 @@ End-to-end AI-generated queries delivering contextual and interpretable data ins
 🏗️ Architecture
 Open-Meteo API → Kafka → Spark → PostgreSQL → Streamlit / Jupyter
 
-<img width="227" height="347" alt="image" src="https://github.com/user-attachments/assets/e7921098-410b-4fe0-aa7f-bb0e58ceaf69" />
+<img width="1024" height="1536" alt="ChatGPT Image 4 mars 2026, 15_44_44" src="https://github.com/user-attachments/assets/a53596b7-90aa-4dc7-be67-bd394021a0a0" />
 
 
 
