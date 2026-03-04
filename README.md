@@ -9,19 +9,19 @@ End-to-end AI-generated queries delivering contextual and interpretable data ins
 🏗️ Architecture
 Open-Meteo API → Kafka → Spark → PostgreSQL → Streamlit / Jupyter
 
-    🌐 Open-Meteo API
-            │
-            ▼
-    📨 Apache Kafka
-            │
-            ▼
-    ⚡ Apache Spark
-            │
-            ▼
-    🗄️ PostgreSQL
-       │        │
-       ▼        ▼
-  Streamlit      Jupyter
+Open-Meteo API
+       │
+       ▼
+   Apache Kafka
+       │
+       ▼
+   Apache Spark
+       │
+       ▼
+   PostgreSQL
+      │     │
+      ▼     ▼
+ Streamlit  Jupyter
 
 
 
