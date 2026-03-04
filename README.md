@@ -21,7 +21,7 @@ Open-Meteo API → Kafka → Spark → PostgreSQL → Streamlit / Jupyter
     🗄️ PostgreSQL
        │        │
        ▼        ▼
-  Streamlit    Jupyter
+  Streamlit      Jupyter
 
 
 
