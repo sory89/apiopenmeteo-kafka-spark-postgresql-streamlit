@@ -1,4 +1,11 @@
-## 🧠 GenAI Output — SQL Intelligence Results  
+## 🧠 GenAI Output — SQL Intelligence Results
+## 🤖 AI Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-8A2BE2?style=for-the-badge)
+
 End-to-end AI-generated queries delivering contextual and interpretable data insights.
 
 # apiopenmeteo-kafka-spark-postgresql-streamlit
