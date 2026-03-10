@@ -1,4 +1,4 @@
-## 🧠 GenAI Output — SQL Intelligence Results
+## 🧠 Real-Time Data Platform with AI Analytics (Kafka + Spark + PostgreSQL) / GenAI Output — SQL Intelligence Results
 ## 🤖 AI Stack
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
